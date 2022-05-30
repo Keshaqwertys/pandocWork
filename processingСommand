@@ -1,0 +1,1 @@
+pandoc -s inputFile.md --filter procesing.py -o outputFile.md
